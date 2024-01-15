@@ -10,3 +10,5 @@ Currently, two official plugins are available:
 We can deploy this project by running the following command on the terminal :
 
 - npm run dev
+
+This repository depicts my portfolio and also traverses my journey as well as my experiences during my journey. It also includes learnings from my projects which have been made by me in my college days.
