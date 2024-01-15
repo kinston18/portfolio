@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 We can deploy this project by running the following command on the terminal :
 
-npm run dev
+- npm run dev
